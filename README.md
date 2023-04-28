@@ -6,6 +6,10 @@ this is our final frt project
  # Spaw Spa and Treatments
  this is a static website of spa and treatment provider wjich provides best treatment and spa experience to the customers.
  
+ ## Screenshots
+ ![image](https://user-images.githubusercontent.com/122031762/235079401-1b2e8c17-a2e2-4a1f-90ad-9d8543e06132.png)
+
+ 
  ## Azure technologies used for Project
 
 - Static web apps
