@@ -39,14 +39,16 @@ this is our final frt project
 
 - Static web apps
 - Health bot
-## Deployment of Azure Services 
-health bot
+# Deployment of Azure Services 
+## health bot
 
 ![image](https://user-images.githubusercontent.com/122031762/235086820-dc64ddfd-295c-446d-9c47-d48b53007bfa.png)
 ![image](https://user-images.githubusercontent.com/122031762/235088431-21cff83f-82fb-4f8e-a318-654f98b10aa1.png)
 
-static web app
+## static web app
 ![image](https://user-images.githubusercontent.com/122031762/235092569-46262f08-7aa1-43f0-8e23-64179d0257a4.png)
+![image](https://user-images.githubusercontent.com/122031762/235103333-f70cc3bb-2b80-475a-aee1-4c3fe4a16f43.png)
+
 
 
 ## Features and Functionalities 😃.
