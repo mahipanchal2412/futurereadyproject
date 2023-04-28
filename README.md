@@ -46,6 +46,8 @@ health bot
 ![image](https://user-images.githubusercontent.com/122031762/235088431-21cff83f-82fb-4f8e-a318-654f98b10aa1.png)
 
 static web app
+![image](https://user-images.githubusercontent.com/122031762/235092569-46262f08-7aa1-43f0-8e23-64179d0257a4.png)
+
 
 ## Features and Functionalities 😃.
 - Have an aesthetically pleasing visual design and architecture.
