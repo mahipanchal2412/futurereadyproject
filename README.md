@@ -1,6 +1,6 @@
 # finalproject
-this is our final frt project
-# Azure link https://purple-bush-0b9994a10.3.azurestaticapps.net
+this is our final frt project.
+# Azure link: https://thankful-rock-0ba1e5610.3.azurestaticapps.net
  
  
  # Spaw Spa and Treatments
